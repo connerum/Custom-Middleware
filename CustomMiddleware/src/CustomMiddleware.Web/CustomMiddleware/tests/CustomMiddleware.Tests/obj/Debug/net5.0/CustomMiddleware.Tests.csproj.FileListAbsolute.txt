@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\CustomMiddleware\src\CustomMiddleware.Web\CustomMiddleware\tests\CustomMiddleware.Tests\obj\Debug\net5.0\CustomMiddleware.Tests.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CustomMiddleware\src\CustomMiddleware.Web\CustomMiddleware\tests\CustomMiddleware.Tests\obj\Debug\net5.0\CustomMiddleware.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CustomMiddleware\src\CustomMiddleware.Web\CustomMiddleware\tests\CustomMiddleware.Tests\obj\Debug\net5.0\CustomMiddleware.Tests.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CustomMiddleware\src\CustomMiddleware.Web\CustomMiddleware\tests\CustomMiddleware.Tests\obj\Debug\net5.0\CustomMiddleware.Tests.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CustomMiddleware\src\CustomMiddleware.Web\CustomMiddleware\tests\CustomMiddleware.Tests\obj\Debug\net5.0\CustomMiddleware.Tests.csproj.CoreCompileInputs.cache
